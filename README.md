@@ -8,4 +8,3 @@ The following components are used:
 
 ![storage](https://user-images.githubusercontent.com/68401714/138700757-60bb626b-8be0-41a4-8fe7-7e84522cd8c0.jpg)
 ![seq1](https://user-images.githubusercontent.com/68401714/138700773-51f3b75f-54b0-4fae-be01-14e4d149796b.JPG)
-![matlab2](https://user-images.githubusercontent.com/68401714/138700771-72288e25-7fd8-40fc-8380-6e9936c0e3bc.JPG)
